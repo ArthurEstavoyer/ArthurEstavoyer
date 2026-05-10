@@ -50,11 +50,6 @@
 ```
 
 ---
-
-```bash
-┌─[arthur]─[~]
-└──╼ $ git log --oneline --graph
-```
 ```
 * SI3 @ Polytech Nice Sophia — Université Côte d'Azur
 ```
